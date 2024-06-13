@@ -3,6 +3,7 @@ channels:
   - conda-forge
   - defaults
 dependencies:
+  - surprise
   - _py-xgboost-mutex=2.0
   - abseil-cpp=20200225.2
   - aiohttp=3.6.2
