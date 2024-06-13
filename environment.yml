@@ -3,7 +3,6 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - surprise
   - _py-xgboost-mutex=2.0
   - abseil-cpp=20200225.2
   - aiohttp=3.6.2
@@ -258,7 +257,6 @@ dependencies:
   - zlib=1.2.11
   - zstd=1.4.5
   - pip:
-    - sklearn
     - absl-py==0.10.0
     - astunparse==1.6.3
     - cmdstanpy==0.9.5
