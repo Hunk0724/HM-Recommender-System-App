@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import pickle
-import surprise
+# import surprise
 from sklearn.metrics.pairwise import cosine_similarity
 import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
